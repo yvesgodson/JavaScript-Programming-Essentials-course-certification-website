@@ -1,0 +1,72 @@
+[
+    {
+        "image-link": "https://picsum.photos/seed/toronto/400/250",
+        "city": "Toronto",
+        "country": "Canada",
+        "description": "Toronto is Canada's largest city, famous for the CN Tower, its museums, and the islands along Lake Ontario.",
+        "timezone": "America/Toronto"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/paris/400/250",
+        "city": "Paris",
+        "country": "France",
+        "description": "The City of Light, home to the Eiffel Tower, the Louvre, and some of the world's best cafés and bakeries.",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/tokyo/400/250",
+        "city": "Tokyo",
+        "country": "Japan",
+        "description": "A striking mix of ultramodern neighborhoods, ancient temples, and incredible food on every corner.",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/sydney/400/250",
+        "city": "Sydney",
+        "country": "Australia",
+        "description": "Iconic harbour city known for the Opera House, Bondi Beach, and its sunny outdoor lifestyle.",
+        "timezone": "Australia/Sydney"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/capetown/400/250",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "description": "Between Table Mountain and the Atlantic Ocean, a scenic city with penguins, vineyards, and rich history.",
+        "timezone": "Africa/Johannesburg"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/newyork/400/250",
+        "city": "New York",
+        "country": "United States",
+        "description": "The city that never sleeps: Times Square, Central Park, and a skyline recognized around the world.",
+        "timezone": "America/New_York"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/rio/400/250",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "description": "Beaches, samba, and Christ the Redeemer overlooking one of the most beautiful bays on Earth.",
+        "timezone": "America/Sao_Paulo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/cotonou/400/250",
+        "city": "Cotonou",
+        "country": "Benin",
+        "description": "Benin's vibrant economic hub, gateway to Ganvié, the stilt village on Lake Nokoué.",
+        "timezone": "Africa/Porto-Novo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/rome/400/250",
+        "city": "Rome",
+        "country": "Italy",
+        "description": "The Eternal City: the Colosseum, the Vatican, and trattorias serving pasta perfected over centuries.",
+        "timezone": "Europe/Rome"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/bangkok/400/250",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "description": "Golden temples, floating markets, and street food that makes the city a favorite for travelers.",
+        "timezone": "Asia/Bangkok"
+    }
+]

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Travel Bloom</title>
+</head>
+<body>
+    <section id="home"></section>
+    <div id="header">
+        <div id="header-left">
+            <img src="src/icon.png" id="img-icon" alt="logo">
+            <h1>Travel Bloom</h1>
+            <nav id="nav-links">
+                <a class="oth-pages" href="#home">Home</a>
+                <a class="oth-pages" href="#about">About Us</a>
+                <a class="oth-pages" href="#contact">Contact Us</a>
+            </nav>
+        </div>
+
+        <div id="header-right">
+            <input id="search-input" type="text" placeholder="Enter a destination or keyword">
+            <button class="btns" id = 'search-btn'>Search</button>
+            <button class="btns" id = 'clear-btn'>Clear</button>
+
+            <div id = 'results'></div>
+        </div>
+    </div>
+
+    <div id="hero">
+        <div id="socials">
+            <img src="src/twitter.png"  alt="Twitter">
+            <img src="src/facebook.png" alt="Facebook">
+            <img src="src/instagram.png" alt="Instagram">
+            <img src="src/youtube.png"  alt="YouTube">
+        </div>
+
+        <div id="hero-text">
+            <h1>EXPLORE <br> DREAM <br> DESTINATION</h1>
+            <p>It encourages exploration of unfamiliar territories embracing diverse
+               cultures and landscapes while pursuing the desired destination that
+               captivates the heart and ignites a sense of wonder</p>
+            <button class="btns">BOOK NOW</button>
+        </div>
+    </div>
+</section>
+    
+
+    <section id="about">
+    <h1 class="section-title">ABOUT US</h1>
+
+    <div id="text-shadow-box">
+        <p>
+            Welcome to our company! We are a team of passionate individuals dedicated to
+            providing excellent services and products to our customers.
+            Our mission is to <b>provide the best experience</b> for people travelling to
+            different destinations around the world.
+            Our values include <b>integrity, innovation, customer satisfaction and teamwork</b>.
+            We believe in <b>putting our customers first</b> and <b>working together</b> to
+            achieve our goals. Feel free to explore our website to learn more about what we offer!
+        </p>
+    </div>
+
+    <h2 class="section-title">Our Team</h2>
+
+    <div id="cards">
+        <article class="card">
+            <div class="card-box">
+                <h3>John Doe</h3>
+                <p>John is responsible for ...</p>
+                <p class = 'job'><b>CEO</b></p>
+            </div>
+        </article>
+        <article class="card">
+            <div class="card-box">
+                <h3>Catherine Thomas</h3>
+                <p>Celina Thomas is responsible for ...</p>
+                <p class = 'job'><b>Creative Director</b></p>
+            </div>
+        </article>
+        <article class="card">
+            <div class="card-box">
+                <h3>Mike Tyson</h3>
+                <p>Mike Tyson is responsible for ...</p>
+                <p class = 'job'><b>Delivery Head</b></p>
+            </div>
+        </article>
+    </div>
+</section>
+
+<section id="history">
+    <div id = "history-card">
+        <h1 class = 'section-title'>Company History</h1>
+
+        <p>
+            Founded in 2018 by avid travelers ,our journey began with a vision to simplify travel planning by offering personalized recommandations tailored to individual preferences. Starting as a passion project, our commitments to curatingunique travel experiences led to the official launch of our platform, driven by a team enthusiastic about exploring the world. Over the years ,we've evolved into a trusted hub, leveraging cutting edge technology and expert insights to provide tailored destination suggestion that resonate with diverse travelers.
+        </p>
+
+        <h1>
+            Our Location
+        </h1>
+
+        <div id="location">
+            <img class = 'img-style' src="src/img-1.jpg" >
+            <img class = 'img-style' src="src/img-2.jpg" >
+        </div>
+    </div>
+</section>
+
+<section id="contact">
+    <div id="tact">
+        <h1>CONTACT US</h1>
+        <div id="cont">
+            <input class="input-contact" type="text" placeholder="Name">
+            <input class="input-contact" type="email" placeholder="Email">
+            <textarea class="input-contact" id="message" placeholder="Message" rows="3"></textarea>
+            <button type="submit">SEND</button>
+        </div>
+    </div>
+</section>
+</body>
+</html>

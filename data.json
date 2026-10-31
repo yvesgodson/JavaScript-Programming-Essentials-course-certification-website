@@ -1,23 +1,86 @@
 [
     {
-        "image-link": "https://picsum.photos/seed/toronto/400/250",
+        "image-link": "https://picsum.photos/seed/toronto1/400/250",
         "city": "Toronto",
         "country": "Canada",
         "description": "Toronto is Canada's largest city, famous for the CN Tower, its museums, and the islands along Lake Ontario.",
         "timezone": "America/Toronto"
     },
     {
-        "image-link": "https://picsum.photos/seed/paris/400/250",
+        "image-link": "https://picsum.photos/seed/toronto2/400/250",
+        "city": "Toronto",
+        "country": "Canada",
+        "description": "From the historic Distillery District to Kensington Market, Toronto is one of the most multicultural cities on Earth.",
+        "timezone": "America/Toronto"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/vancouver/400/250",
+        "city": "Vancouver",
+        "country": "Canada",
+        "description": "Mountains meet the ocean in Vancouver, a city of beaches, ski slopes, and one of the largest urban parks in North America.",
+        "timezone": "America/Vancouver"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/montreal/400/250",
+        "city": "Montreal",
+        "country": "Canada",
+        "description": "A blend of European charm and North American energy, famous for Old Montreal, poutine, and its summer festivals.",
+        "timezone": "America/Toronto"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/paris1/400/250",
         "city": "Paris",
         "country": "France",
         "description": "The City of Light, home to the Eiffel Tower, the Louvre, and some of the world's best cafés and bakeries.",
         "timezone": "Europe/Paris"
     },
     {
-        "image-link": "https://picsum.photos/seed/tokyo/400/250",
+        "image-link": "https://picsum.photos/seed/paris2/400/250",
+        "city": "Paris",
+        "country": "France",
+        "description": "Stroll the Seine, explore Montmartre, and discover why every visit to Paris feels like stepping into a painting.",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/lyon/400/250",
+        "city": "Lyon",
+        "country": "France",
+        "description": "France's gastronomic capital, where traditional bouchons, Renaissance old town, and silk-weaving history meet.",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/marseille/400/250",
+        "city": "Marseille",
+        "country": "France",
+        "description": "The oldest city in France, a Mediterranean port with a legendary fish market, calanques, and bouillabaisse.",
+        "timezone": "Europe/Paris"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/tokyo1/400/250",
         "city": "Tokyo",
         "country": "Japan",
         "description": "A striking mix of ultramodern neighborhoods, ancient temples, and incredible food on every corner.",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/tokyo2/400/250",
+        "city": "Tokyo",
+        "country": "Japan",
+        "description": "From the neon lights of Shibuya Crossing to the quiet gardens of the Imperial Palace, Tokyo never runs out of surprises.",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/kyoto/400/250",
+        "city": "Kyoto",
+        "country": "Japan",
+        "description": "Japan's ancient capital, with thousands of shrines and temples, geisha districts, and cherry blossom lined canals.",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/osaka/400/250",
+        "city": "Osaka",
+        "country": "Japan",
+        "description": "Japan's kitchen: street food paradise in Dotonbori, a spectacular castle, and the friendliest nightlife in the country.",
         "timezone": "Asia/Tokyo"
     },
     {
@@ -28,6 +91,13 @@
         "timezone": "Australia/Sydney"
     },
     {
+        "image-link": "https://picsum.photos/seed/melbourne/400/250",
+        "city": "Melbourne",
+        "country": "Australia",
+        "description": "Australia's culture capital of laneway cafés, street art, and the Great Ocean Road starting at its doorstep.",
+        "timezone": "Australia/Melbourne"
+    },
+    {
         "image-link": "https://picsum.photos/seed/capetown/400/250",
         "city": "Cape Town",
         "country": "South Africa",
@@ -35,17 +105,38 @@
         "timezone": "Africa/Johannesburg"
     },
     {
-        "image-link": "https://picsum.photos/seed/newyork/400/250",
+        "image-link": "https://picsum.photos/seed/johannesburg/400/250",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "description": "South Africa's beating heart of gold rush history, vibrant townships, and a rising art and food scene.",
+        "timezone": "Africa/Johannesburg"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/newyork1/400/250",
         "city": "New York",
         "country": "United States",
         "description": "The city that never sleeps: Times Square, Central Park, and a skyline recognized around the world.",
         "timezone": "America/New_York"
     },
     {
-        "image-link": "https://picsum.photos/seed/newyork/400/250",
+        "image-link": "https://picsum.photos/seed/newyork2/400/250",
         "city": "New York",
         "country": "United States",
-        "description": "The city that never sleeps: Times Square, Central Park, and a skyline recognized around the world.",
+        "description": "Five boroughs, eight million stories: world-class museums, Broadway, and the best pizza slice of your life at 2 a.m.",
+        "timezone": "America/New_York"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/sanfrancisco/400/250",
+        "city": "San Francisco",
+        "country": "United States",
+        "description": "Golden Gate fog, historic cable cars, and steep streets rolling down to the bay.",
+        "timezone": "America/Los_Angeles"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/miami/400/250",
+        "city": "Miami",
+        "country": "United States",
+        "description": "Art deco beaches, Cuban coffee in Little Havana, and a nightlife scene that runs until sunrise.",
         "timezone": "America/New_York"
     },
     {
@@ -56,10 +147,31 @@
         "timezone": "America/Sao_Paulo"
     },
     {
+        "image-link": "https://picsum.photos/seed/saopaulo/400/250",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "description": "South America's largest city, a jungle of skyscrapers with an unmatched restaurant and street art scene.",
+        "timezone": "America/Sao_Paulo"
+    },
+    {
         "image-link": "https://picsum.photos/seed/cotonou/400/250",
         "city": "Cotonou",
         "country": "Benin",
         "description": "Benin's vibrant economic hub, gateway to Ganvié, the stilt village on Lake Nokoué.",
+        "timezone": "Africa/Porto-Novo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/portonovo/400/250",
+        "city": "Porto-Novo",
+        "country": "Benin",
+        "description": "The official capital of Benin, with the Da Silva Museum, the Grand Mosque, and a rich Afro-Brazilian heritage.",
+        "timezone": "Africa/Porto-Novo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/ouidah/400/250",
+        "city": "Ouidah",
+        "country": "Benin",
+        "description": "The historic port of the slave route, home to the Door of No Return and the sacred Python Temple.",
         "timezone": "Africa/Porto-Novo"
     },
     {
@@ -70,10 +182,31 @@
         "timezone": "Europe/Rome"
     },
     {
+        "image-link": "https://picsum.photos/seed/venice/400/250",
+        "city": "Venice",
+        "country": "Italy",
+        "description": "A city built on water, where gondolas glide down canals and every corner hides a bridge or a bacaro.",
+        "timezone": "Europe/Rome"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/florence/400/250",
+        "city": "Florence",
+        "country": "Italy",
+        "description": "The cradle of the Renaissance, with the Duomo, the Uffizi Gallery, and Tuscan steak in the Oltrarno.",
+        "timezone": "Europe/Rome"
+    },
+    {
         "image-link": "https://picsum.photos/seed/bangkok/400/250",
         "city": "Bangkok",
         "country": "Thailand",
         "description": "Golden temples, floating markets, and street food that makes the city a favorite for travelers.",
+        "timezone": "Asia/Bangkok"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/chiangmai/400/250",
+        "city": "Chiang Mai",
+        "country": "Thailand",
+        "description": "The rose of the north: mountain temples, night bazaars, and ethical elephant sanctuaries.",
         "timezone": "Asia/Bangkok"
     }
 ]

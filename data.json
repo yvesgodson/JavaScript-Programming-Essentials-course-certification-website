@@ -42,6 +42,13 @@
         "timezone": "America/New_York"
     },
     {
+        "image-link": "https://picsum.photos/seed/newyork/400/250",
+        "city": "New York",
+        "country": "United States",
+        "description": "The city that never sleeps: Times Square, Central Park, and a skyline recognized around the world.",
+        "timezone": "America/New_York"
+    },
+    {
         "image-link": "https://picsum.photos/seed/rio/400/250",
         "city": "Rio de Janeiro",
         "country": "Brazil",

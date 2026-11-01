@@ -59,7 +59,7 @@
         "image-link": "https://picsum.photos/seed/tokyo1/400/250",
         "city": "Tokyo",
         "country": "Japan",
-        "description": "A striking mix of ultramodern neighborhoods, ancient shrines, and incredible food on every corner.",
+        "description": "A striking mix of ultramodern neighborhoods, ancient shrines, and some of the best food in the country, on every corner.",
         "timezone": "Asia/Tokyo"
     },
     {
@@ -101,7 +101,7 @@
         "image-link": "https://picsum.photos/seed/sydney/400/250",
         "city": "Sydney",
         "country": "Australia",
-        "description": "Iconic harbour city known for the Opera House, Bondi Beach, and its sunny outdoor lifestyle.",
+        "description": "The country's iconic harbour city, known for the Opera House, Bondi Beach, and its sunny outdoor lifestyle.",
         "timezone": "Australia/Sydney"
     },
     {
@@ -115,7 +115,7 @@
         "image-link": "https://picsum.photos/seed/capetown/400/250",
         "city": "Cape Town",
         "country": "South Africa",
-        "description": "Between Table Mountain and the Atlantic Ocean, a scenic city with penguins, vineyards, and rich history.",
+        "description": "Between Table Mountain and the Atlantic Ocean, the country's most scenic city with penguins, vineyards, and rich history.",
         "timezone": "Africa/Johannesburg"
     },
     {
@@ -157,7 +157,7 @@
         "image-link": "https://picsum.photos/seed/rio/400/250",
         "city": "Rio de Janeiro",
         "country": "Brazil",
-        "description": "Beaches, samba, and Christ the Redeemer overlooking one of the most beautiful bays on Earth.",
+        "description": "Beaches, samba, and Christ the Redeemer overlooking one of the most beautiful bays in the country.",
         "timezone": "America/Sao_Paulo"
     },
     {
@@ -171,7 +171,7 @@
         "image-link": "https://picsum.photos/seed/cotonou/400/250",
         "city": "Cotonou",
         "country": "Benin",
-        "description": "Benin's vibrant economic hub, gateway to Ganvié, the stilt village on Lake Nokoué.",
+        "description": "The country's vibrant economic hub, gateway to Ganvié, the stilt village on Lake Nokoué.",
         "timezone": "Africa/Porto-Novo"
     },
     {
@@ -192,7 +192,7 @@
         "image-link": "https://picsum.photos/seed/rome/400/250",
         "city": "Rome",
         "country": "Italy",
-        "description": "The Eternal City: the Colosseum, the Vatican, and trattorias serving pasta perfected over centuries.",
+        "description": "The Eternal City: the Colosseum, the Vatican, and trattorias serving the country's best pasta, perfected over centuries.",
         "timezone": "Europe/Rome"
     },
     {

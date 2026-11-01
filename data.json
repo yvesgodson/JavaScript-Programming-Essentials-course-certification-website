@@ -52,14 +52,14 @@
         "image-link": "https://picsum.photos/seed/marseille/400/250",
         "city": "Marseille",
         "country": "France",
-        "description": "The oldest city in France country, a Mediterranean port with a legendary fish market, calanques, and bouillabaisse.",
+        "description": "The oldest city in France, a Mediterranean port with a legendary fish market, calanques, and bouillabaisse.",
         "timezone": "Europe/Paris"
     },
     {
         "image-link": "https://picsum.photos/seed/tokyo1/400/250",
         "city": "Tokyo",
         "country": "Japan",
-        "description": "A striking mix of ultramodern neighborhoods, ancient temples, and incredible food on every corner.",
+        "description": "A striking mix of ultramodern neighborhoods, ancient shrines, and incredible food on every corner.",
         "timezone": "Asia/Tokyo"
     },
     {
@@ -73,7 +73,7 @@
         "image-link": "https://picsum.photos/seed/kyoto/400/250",
         "city": "Kyoto",
         "country": "Japan",
-        "description": "Japan's ancient capital, with thousands of shrines and temples, geisha districts, and cherry blossom lined canals.",
+        "description": "Japan's ancient capital, with thousands of shrines, geisha districts, and cherry blossom lined canals.",
         "timezone": "Asia/Tokyo"
     },
     {
@@ -82,6 +82,20 @@
         "country": "Japan",
         "description": "Japan's kitchen: street food paradise in Dotonbori, a spectacular castle, and the friendliest nightlife in the country.",
         "timezone": "Asia/Tokyo"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/angkorwat/400/250",
+        "city": "Siem Reap",
+        "country": "Cambodia",
+        "description": "Home to Angkor Wat, the largest religious monument in the world — a 12th-century temple city of lotus-bud towers and endless bas-reliefs, magical at sunrise.",
+        "timezone": "Asia/Phnom_Penh"
+    },
+    {
+        "image-link": "https://picsum.photos/seed/goldentemple/400/250",
+        "city": "Amritsar",
+        "country": "India",
+        "description": "The Golden Temple, Sikhism's holiest shrine, gleams in the middle of its sacred pool and welcomes visitors of every faith.",
+        "timezone": "Asia/Kolkata"
     },
     {
         "image-link": "https://picsum.photos/seed/sydney/400/250",
@@ -171,7 +185,7 @@
         "image-link": "https://picsum.photos/seed/ouidah/400/250",
         "city": "Ouidah",
         "country": "Benin",
-        "description": "The historic port of the slave route, home to the Door of No Return and the sacred Python Temple.",
+        "description": "The historic port of the slave route, home to the Door of No Return and the sacred python shrine of the voodoo religion.",
         "timezone": "Africa/Porto-Novo"
     },
     {
@@ -199,14 +213,14 @@
         "image-link": "https://picsum.photos/seed/bangkok/400/250",
         "city": "Bangkok",
         "country": "Thailand",
-        "description": "Golden temples, floating markets, and street food that makes the city a favorite for travelers.",
+        "description": "Glittering stupas, floating markets, and street food that makes the city a favorite for travelers.",
         "timezone": "Asia/Bangkok"
     },
     {
         "image-link": "https://picsum.photos/seed/chiangmai/400/250",
         "city": "Chiang Mai",
         "country": "Thailand",
-        "description": "The rose of the north country: mountain temples, night bazaars, and ethical elephant sanctuaries.",
+        "description": "The rose of the north: mountain monasteries, night bazaars, and ethical elephant sanctuaries.",
         "timezone": "Asia/Bangkok"
     }
 ]

@@ -1,1 +1,1 @@
-### Travel recommendation projec
+### Travel recommendation project

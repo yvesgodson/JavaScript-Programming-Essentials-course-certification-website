@@ -1,5 +1,9 @@
 * { box-sizing: border-box; }
 
+html {
+    scroll-padding-top: 80px;
+}
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -147,7 +151,7 @@ body {
 
 .section-title {
     font-size: 60px;
-    margin: 40px 0;
+    margin: 60px 0;
     line-height: 1.1;
     color: aliceblue;
 }

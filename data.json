@@ -52,7 +52,7 @@
         "image-link": "https://picsum.photos/seed/marseille/400/250",
         "city": "Marseille",
         "country": "France",
-        "description": "The oldest city in France, a Mediterranean port with a legendary fish market, calanques, and bouillabaisse.",
+        "description": "The oldest city in France country, a Mediterranean port with a legendary fish market, calanques, and bouillabaisse.",
         "timezone": "Europe/Paris"
     },
     {
@@ -206,7 +206,7 @@
         "image-link": "https://picsum.photos/seed/chiangmai/400/250",
         "city": "Chiang Mai",
         "country": "Thailand",
-        "description": "The rose of the north: mountain temples, night bazaars, and ethical elephant sanctuaries.",
+        "description": "The rose of the north country: mountain temples, night bazaars, and ethical elephant sanctuaries.",
         "timezone": "Asia/Bangkok"
     }
 ]
